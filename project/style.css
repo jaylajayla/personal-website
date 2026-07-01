@@ -1,0 +1,77 @@
+/* STYLE SECTIONING TAGS */
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body {
+ background-color: #063A21; 
+   text-align: center;
+}
+
+/* STYLE TEXT */
+h1 {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  font-size: 64px;
+}
+h2{
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  font-size: 64px;
+}
+p{ 
+  color: white; 
+  font-family: "Times New Roman", Times, serif;
+  font-size: 22px;
+text-align: left;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+p2{color: white; 
+  font-family: "Times New Roman", Times, serif;
+  font-size: 22px;
+text-align: left;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 20%;
+    margin-right: 20%;}
+.car{   border: .2;
+     }
+#port {color:white;
+      }
+  
+
+/* STYLE IMAGES */
+img {
+  max-width: 55%;
+max-height: 55%;
+  padding: 45px;
+  margin-top: 2em;
+}
+/* STYLE NAV BAR */
+nav {
+  text-align: center;
+  font-size: 32px;
+  list-style: none;
+  color: white;
+}
+ul{
+  background-color: #1499DB;
+  padding: 1em;
+}
+li{ display: inline;
+    }
+li a{
+  text-decoration: none;
+  color: white;
+  font-size: 1.3cm;
+  padding: 1em;
+}
+li a{ hover: 
+}
